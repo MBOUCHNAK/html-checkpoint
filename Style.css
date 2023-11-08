@@ -1,0 +1,22 @@
+h3 {
+  color: rgb(69, 34, 133);
+}
+nav {
+  display: block;
+  position: fixed;
+  top: 10px;
+  right: 50px;
+  color: rgb(226, 229, 38);
+}
+footer {
+  display: inline-block;
+  width: 200px;
+  height: 100px;
+}
+body {
+  background-color: rgb(228, 159, 159);
+  font-family: roboto;
+}
+img {
+  border-radius: 80%;
+}
